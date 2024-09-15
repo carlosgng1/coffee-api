@@ -1,0 +1,6 @@
+com\example\coffeeapi\model\Payment.class
+com\example\coffeeapi\controller\CoffeeController.class
+com\example\CoffeeApiApplication.class
+com\example\coffeeapi\model\Order.class
+com\example\coffeeapi\service\JsonFileService.class
+com\example\coffeeapi\model\Product.class
